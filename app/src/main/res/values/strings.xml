@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">acromine</string>
+    <string name="title">Enter your acronym</string>
+    <string name="name">Name</string>
+    <string name="empty" />
+    <string name="acronym_hint"><i>example: fbi, cia, nsa...</i></string>
+</resources>
